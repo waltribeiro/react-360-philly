@@ -40,7 +40,7 @@ Photograph credits:
 * picture 4: by [william hook](https://unsplash.com/photos/9e9PD9blAto)
 
 ## Demo
-https://waltribeiro.github.io/react-user-search/
+https://waltribeiro.github.io/react-user-search
 
 ## GitHub
 https://github.com/waltribeiro/react-user-search
@@ -56,6 +56,10 @@ rec philly = https://www.recphilly.com/
 
 Spherical Panoramas = little planet, equirectangular, gopro 360, panorama
 https://www.ptgui.com/
+
+https://livetourlab.com/tours/3004/#Patio
+
+https://blog.agilevision.io/creating-simple-tourism-vr-application-using-react-360
 
 ## APIs
 With WebVR and WebGL APIs we can already render 3D imagery within a web browser

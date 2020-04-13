@@ -6,7 +6,7 @@ import {
     Image,
     asset
 } from 'react-vr'
-import { Link } from 'react-router-dom'
+// import { Link } from 'react-router-dom'
 
 export default class Clock extends Component {
     constructor(props) {
@@ -47,7 +47,7 @@ export default class Clock extends Component {
                                         transform: [{ translate: [19, 10.5, 8] }, { rotateY: -90 }],
                                     }}>
                                     Check out my new project
-                                    <Link to="http://waltrib.com">Walt</Link>
+                                    {/* <Link to="http://waltrib.com">Walt</Link> */}
                         </Text>
                             </View>
                         )
