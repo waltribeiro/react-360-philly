@@ -27,7 +27,7 @@ export default class react_project_360_app extends React.Component {
             transform: [{ translate: [0, 0, -3] }],
           }}
         >
-        Test
+        Test Text
 
 
               {/* <Link to={{"http://waltrib.com"}}>Home</Link> */}
